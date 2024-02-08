@@ -7,3 +7,4 @@ $$\require{color}\colorbox{magenta}{y = (sin)x}$$
 
 
 <p>\color{#5ad7b7}큰글씨 초록색</p>
+$$\color{green}{y = (cos)x}$$
