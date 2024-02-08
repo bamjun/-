@@ -1,5 +1,5 @@
 # -
-
+$$\require{color}\colorbox{magenta}{y = (sin)x}$$
 <p>$\colorbox{#FFFF00}큰글씨 초록색$</p>
 리드미 테스트
 <p>$\huge{\rm{\color{#5ad7b7}큰글씨\ 로만체\ 초록색}}$</p>
