@@ -15,3 +15,9 @@ $$\color{purple}\fbox{eff}$$
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=35&pause=1000&random=false&width=435&lines=HI%2C+there.+I'm+bamjun.+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+
+
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
