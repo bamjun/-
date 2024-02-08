@@ -1,10 +1,1 @@
-# -
-$$\require{color}\colorbox{magenta}{y = (sin)x}$$
-<p>$\colorbox{#FFFF00}큰글씨 초록색$</p>
-리드미 테스트
-<p>$\huge{\rm{\color{#5ad7b7}큰글씨\ 로만체\ 초록색}}$</p>
-<span style='background-color:yellow; color:black;'>2024 02 07 완료</span>  
-
-
-<p>\color{#5ad7b7}큰글씨 초록색</p>
-$$\color{green}{y = (cos)x}$$
+$$\Huge\color{purple}\fbox\{\color{paddingfix}\color{indigo}{\color{orchid}\Huge {How I \color{pink}{git 'n' shi{\color{violet}-} }\color{magenta}gh cli}}}{\color{royalblue}\color{yellow}{}\color{khaki}\textcolor{silver}{\} }$$
