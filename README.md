@@ -5,6 +5,8 @@ $$\Huge\color{purple}\fbox\{\color{paddingfix}\color{indigo}{\color{orchid}\Huge
 $$\Huge\color{purple}\fbox\{\color{paddingfix}\color{indigo}{\color{orchid}\Huge {How I \color{pink}{git 'n' shi{\color{violet}-} }\color{magenta}gh cli}}}{\color{royalblue}\color{yellow}{}\color{khaki}\textcolor{silver}{\} }$$
 
 $$\fbox{red}{yellow}{이 텍스트는 빨간색 테두리와 노란색 배경을 가집니다.}$$
+$$\Huge\color{purple}\fbox\{silver}{\} }$$
+
 
 $$\fbox{ㄷㄹㄷㄹ}$$
 
