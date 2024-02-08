@@ -30,3 +30,10 @@ $$\color{purple}\fbox{eff}$$
 # text in gray
 @@ text in purple (and bold)@@
 ```
+
+- 대랴ㅓㄷ러
+  - 댜ㅐ러
+  -
+```diff
+- 이것은 레드
+```
