@@ -6,7 +6,7 @@ $$\Huge\color{purple}\fbox\{\color{paddingfix}\color{indigo}{\color{orchid}\Huge
 
 
 
-$$\fbox\{\color{paddingfix}{ㄷㄹㄷㄹ}$$
+$$color{purple}\fbox{ㄷㄹㄷㄹ}$$
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=35&pause=1000&random=false&width=435&lines=HI%2C+there.+I'm+bamjun.+%F0%9F%91%8B)](https://git.io/typing-svg)
